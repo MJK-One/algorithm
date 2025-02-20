@@ -1,4 +1,4 @@
-// 백준 2805번 실버2 나무 자르기기
+// 백준 2805번 실버2 나무 자르기
 const fs = require('fs');
 
 let input = fs.readFileSync('./input.txt', 'utf-8').trim().split('\n');
