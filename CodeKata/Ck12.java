@@ -1,5 +1,3 @@
-package CodeKata;
-
 public class Ck12 {
     public double solution(int[] arr) {
         double answer = 0;

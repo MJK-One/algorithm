@@ -1,5 +1,3 @@
-package CodeKata;
-
 public class Ck44 {
     public int solution(int[][] sizes) {
         int answer = 0;
