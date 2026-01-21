@@ -1,1 +1,1 @@
-public void static main(args[]) 
+public
